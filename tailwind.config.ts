@@ -14,6 +14,11 @@ const config: Config = {
           "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
       },
     },
+    colors: {
+      "yellow-from-figma": {
+        500: "#EBCF6E", 
+      }
+    }
   },
   plugins: [],
 };
